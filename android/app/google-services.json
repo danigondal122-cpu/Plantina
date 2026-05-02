@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280922894812",
+    "project_id": "plantina-c243c",
+    "storage_bucket": "plantina-c243c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280922894812:android:b7f87c9760be6cdf941f19",
+        "android_client_info": {
+          "package_name": "com.danial141.plantina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClLfXNs5CfJAfcCoef66mkiK9rSa-YQ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

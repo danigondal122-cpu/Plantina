@@ -1,0 +1,28 @@
+[debug] [2025-05-04T04:13:55.336Z] ----------------------------------------------------------------------
+[debug] [2025-05-04T04:13:55.340Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\QC\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2025-05-04T04:13:55.340Z] CLI Version:   14.2.2
+[debug] [2025-05-04T04:13:55.341Z] Platform:      win32
+[debug] [2025-05-04T04:13:55.341Z] Node Version:  v20.19.1
+[debug] [2025-05-04T04:13:55.341Z] Time:          Sun May 04 2025 09:13:55 GMT+0500 (Pakistan Standard Time)
+[debug] [2025-05-04T04:13:55.341Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-04T04:13:55.349Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-04T04:13:55.350Z] > authorizing via signed-in user (plantina141@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\WEB development\app development\New folder\Plantina\src
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
